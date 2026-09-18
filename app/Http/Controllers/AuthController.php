@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 class AuthController{
-    public function memulai () {
-        
+    public function memulaim () {
+        return "asdasd";
     }
 }
